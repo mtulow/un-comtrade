@@ -173,5 +173,16 @@ plan.out
 # Configuration
 config/
 
-
+# Mage AI
+.log
+.logs/
+.mage_temp_profiles
+.preferences.yaml
+.variables/
+docker-compose.override.yml
+logs/
+mage-ai.db
+mage_data/
+etl_mage/
+secrets/
 
