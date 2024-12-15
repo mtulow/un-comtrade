@@ -1,5 +1,5 @@
 # The United Nations Comtrade Database
-An end-to-end ETL pipeline project with the United Nations Commercial Trade Database via GCP Products.
+An end-to-end ETL pipeline project with the [United Nations Commercial Trade Database](https://comtradeplus.un.org/) using the Google Cloud Platform.
 
 ---
 
