@@ -170,6 +170,8 @@ cython_debug/
 *.tfvars
 plan.out
 
+# Configuration
+config/
 
 
 
